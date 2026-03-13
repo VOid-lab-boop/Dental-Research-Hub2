@@ -1,0 +1,14 @@
+packages:
+  "framer-motion": "For premium smooth scroll reveals, timeline animations, and interactive component transitions"
+  "clsx": "Utility for constructing className strings conditionally"
+  "tailwind-merge": "Utility for merging Tailwind CSS classes without style conflicts"
+
+images:
+  - path: "artifacts/dental-research-hub/public/images/hero-bg.png"
+    description: "Abstract dark background with deep navy blue and purple gradient mesh, subtle neon green glowing geometric lines, futuristic academic feel, 3d glassmorphism elements, highly detailed"
+    aspect_ratio: "16:9"
+
+notes:
+  - This is a pure frontend educational application with no backend dependencies.
+  - All content is hardcoded and structured for presentation.
+  - Smooth scrolling is implemented using native browser APIs rather than router links since it's a single-page layout.
